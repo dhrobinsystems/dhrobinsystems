@@ -1,4 +1,4 @@
-![Digital Marketing Strategist | Content & Brand Growth | Helping Businesses Scale Online](https://github.com/dhrobinofficial/dhrobinofficial/blob/main/Cover%20Image.png)
+![Marketing Operations Specialist | Marketing Automation | CRM Systems | Funnel Systems | Marketing Infrastructure](https://github.com/dhrobinsystems/dhrobinsystems/blob/main/Systems%20Image.png)
 
 
 ### Hi there 👋 I'm DH Robin
