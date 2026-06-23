@@ -1,4 +1,4 @@
-![Marketing Operations Specialist | Marketing Automation | CRM Systems | Funnel Systems | Marketing Infrastructure](https://github.com/dhrobinsystems/dhrobinsystems/blob/main/Systems%20Image.png)
+![Marketing Operations Specialist | Marketing Automation | CRM Systems | Funnel Systems | Marketing Infrastructure](https://github.com/dhrobinsystems/dhrobinsystems/blob/main/Revenue%20Architect.png)
 
 
 ### Hi there 👋 I'm DH Robin
