@@ -52,18 +52,18 @@ My implementation portfolio and technical documentation are available at **dhRob
 
 # Professional Experience
 
-## Marketing Operations & Automation Specialist  
-### The CWT Studio
+## Revenue Infrastructure Architect  
+### dhRobin Systems
 
-Supporting CRM architecture, HubSpot implementations, marketing automation workflows, campaign infrastructure, and operational systems for client environments.
+Designing and implementing revenue infrastructure systems that connect CRM architecture, marketing automation, outbound workflows, data enrichment, and operational processes into scalable GTM systems.
 
 Key areas of work:
 
-- Building and optimizing HubSpot CRM structures
-- Configuring pipelines, properties, workflows, and lifecycle automation
-- Supporting revenue operations processes
-- Improving marketing-to-sales handoff systems
-- Documenting technical implementations and operational processes
+- Architecting and optimizing HubSpot CRM structures, pipelines, and lifecycle frameworks
+- Building automation workflows that improve lead management and revenue operations
+- Designing outbound infrastructure using enrichment, prospecting, and sequencing systems
+- Connecting marketing systems through integrations, APIs, and workflow automation
+- Documenting technical implementations, system architecture, and operational processes
 
 ---
 
@@ -71,7 +71,7 @@ Key areas of work:
 
 ## Revenue Operations
 
-HubSpot • Clay • Apollo • Smartlead • GoHighLevel • ScoreApp
+HubSpot • Clay • Smartlead • Apollo
 
 ## Automation
 
@@ -114,7 +114,7 @@ Domains • DNS • Hosting • Landing Page Systems
 # Philosophy
 
 > Great marketing systems are not collections of tools.  
-> They are connected operational engines where data, automation, and people move together.
+They are connected operational engines in which data, automation, and people move together.
 
 ---
 
