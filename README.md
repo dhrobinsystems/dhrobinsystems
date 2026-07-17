@@ -3,7 +3,7 @@
 
 ### Hi there 👋 I'm DH Robin
 
-**Marketing Operations Specialist | Marketing Automation | CRM Systems | Funnel Systems | Marketing Infrastructure**
+**Revenue Infrastructure Architect | HubSpot CRM Architecture | RevOps Automation | Outbound Systems**
 
 I build marketing operations systems that connect acquisition channels, automation workflows, CRM pipelines, and web infrastructure into a unified growth engine.
 
