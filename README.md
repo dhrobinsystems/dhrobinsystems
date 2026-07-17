@@ -4,9 +4,9 @@
 
 ## Revenue Infrastructure Architect | HubSpot CRM Architecture | RevOps Automation | GTM Systems
 
-I design and engineer revenue infrastructure that connects CRM platforms, automation workflows, enrichment systems, outbound channels, and operational data into scalable growth engines.
+I design and optimize revenue infrastructure that connects CRM platforms, automation workflows, enrichment systems, outbound channels, and operational data into scalable growth systems.
 
-Through **dhRobin Systems**, I help businesses eliminate fragmented marketing operations by building reliable systems across:
+My work focuses on helping teams eliminate fragmented marketing operations by building reliable systems across:
 
 - CRM architecture
 - Marketing automation
@@ -15,8 +15,9 @@ Through **dhRobin Systems**, I help businesses eliminate fragmented marketing op
 - Outbound infrastructure
 - Revenue operations workflows
 
-My approach combines marketing operations knowledge with engineering discipline, creating systems that are measurable, maintainable, and built for scale.
+I combine marketing operations expertise with an engineering mindset to create systems that are measurable, maintainable, and built for scale.
 
+My portfolio and professional work are documented at dhRobin Systems.
 ---
 
 ## What I Build
@@ -52,7 +53,7 @@ My approach combines marketing operations knowledge with engineering discipline,
 - Creating outbound infrastructure with deliverability best practices
 - Connecting marketing funnels with CRM automation
 - Developing landing pages and digital systems that support acquisition workflows
-- Managing technical infrastructure including domains, DNS, hosting, and integrations
+- Managing technical infrastructure, including domains, DNS, hosting, and integrations
 
 ---
 
