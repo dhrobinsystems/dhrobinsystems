@@ -17,77 +17,91 @@ My work focuses on helping teams eliminate fragmented marketing operations by bu
 
 I combine marketing operations expertise with an engineering mindset to create systems that are measurable, maintainable, and built for scale.
 
-My portfolio and professional work are documented at dhRobin Systems.
+My implementation portfolio and technical documentation are available at **dhRobin Systems**.
+
 ---
 
-## What I Build
+# What I Build
 
-### CRM & Revenue Operations
+## CRM & Revenue Operations
+
 - HubSpot CRM architecture and optimization
-- Lifecycle stage design
-- Pipeline and property governance
+- Lifecycle stage and pipeline design
+- CRM property governance
 - Workflow automation
 - Lead routing systems
 - Revenue reporting infrastructure
 
-### Data & Outbound Infrastructure
+## Data & Outbound Infrastructure
+
 - Clay enrichment workflows
 - Apollo prospecting systems
 - Smartlead outbound infrastructure
-- Email deliverability foundations
 - Data validation and enrichment pipelines
+- B2B targeting and segmentation systems
 
-### Automation & Integrations
+## Automation & Integrations
+
 - HubSpot workflow automation
 - n8n and Zapier integrations
-- CRM synchronization
+- API-based system connections
 - Marketing operations automation
 - GTM process optimization
 
 ---
 
-## Experience Includes
+# Professional Experience
 
-- Designing HubSpot-based revenue operations systems
-- Building automated prospecting and enrichment workflows
-- Creating outbound infrastructure with deliverability best practices
-- Connecting marketing funnels with CRM automation
-- Developing landing pages and digital systems that support acquisition workflows
-- Managing technical infrastructure, including domains, DNS, hosting, and integrations
+## Marketing Operations & Automation Specialist  
+### The CWT Studio
+
+Supporting CRM architecture, HubSpot implementations, marketing automation workflows, campaign infrastructure, and operational systems for client environments.
+
+Key areas of work:
+
+- Building and optimizing HubSpot CRM structures
+- Configuring pipelines, properties, workflows, and lifecycle automation
+- Supporting revenue operations processes
+- Improving marketing-to-sales handoff systems
+- Documenting technical implementations and operational processes
 
 ---
 
-## Technical Stack
+# Technical Stack
 
-### Revenue Operations
+## Revenue Operations
+
 HubSpot • Clay • Apollo • Smartlead • GoHighLevel • ScoreApp
 
-### Automation
+## Automation
+
 n8n • Zapier • Webhooks • API Integrations
 
-### Web Infrastructure
+## Web Infrastructure
+
 WordPress • PHP • HTML • CSS • JavaScript  
 Domains • DNS • Hosting • Landing Page Systems
 
 ---
 
-## Certifications
+# Certifications
 
 - HubSpot Revenue Operations Certification
 - HubSpot Marketing Hub Software Certification
-- LeanPM Yellow Belt
+- LeanPM Yellow Belt - LeanPM®
 - LinkedIn Marketing Strategy Certification
-- Marketing Analytics ROI Certification
+- Marketing Analytics ROI - Semrush
+- Fundamentals of Digital Marketing - Google
 
 ---
 
-## Current Focus
+# Current Focus
 
 🔭 Building scalable revenue infrastructure through CRM architecture and automation
 
 🌱 Exploring advanced workflow automation, APIs, and operational engineering
 
-🤝 Open to collaborating on RevOps systems, CRM architecture, and marketing automation projects
+🤝 Open to collaboration on RevOps systems, CRM architecture, and marketing automation projects
 
 💬 Ask me about HubSpot, CRM systems, outbound infrastructure, and revenue operations
 
@@ -97,10 +111,16 @@ Domains • DNS • Hosting • Landing Page Systems
 
 ---
 
-## Philosophy
+# Philosophy
 
 > Great marketing systems are not collections of tools.  
 > They are connected operational engines where data, automation, and people move together.
+
+---
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='GitHub' height='40'>](https://github.com/dhrobinsystems)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='LinkedIn' height='40'>](https://www.linkedin.com/in/dhrobinsystems/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='Website' height='40'>](https://www.dhrobinsystems.com/)
 
   
 
