@@ -1,8 +1,8 @@
+![Revenue Infrastructure Architect | HubSpot CRM Architecture | RevOps Automation | GTM Systems](https://github.com/dhrobinsystems/dhrobinsystems/blob/main/Revenue%20Architect.png)
+
 # Hi, I'm DH Robin 👋
 
 ## Revenue Infrastructure Architect | HubSpot CRM Architecture | RevOps Automation | GTM Systems
-
-![Revenue Infrastructure Architect | HubSpot CRM Architecture | RevOps Automation | GTM Systems](https://github.com/dhrobinsystems/dhrobinsystems/blob/main/Revenue%20Architect.png)
 
 I design and optimize revenue infrastructure that connects CRM platforms, automation workflows, enrichment systems, outbound channels, and operational data into scalable growth systems.
 
@@ -107,7 +107,7 @@ Domains • DNS • Hosting • Landing Page Systems
 
 📫 Connect with me:
 - Website: https://dhrobinsystems.com
-- LinkedIn: https://linkedin.com/in/dhrobinsystems
+- LinkedIn: https://www.linkedin.com/in/dhrobinofficial
 
 ---
 
@@ -118,16 +118,28 @@ They are connected operational engines in which data, automation, and people mov
 
 ---
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/dhrobinsystems)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/dhrobinsystems/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/dhrobinsystem)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/dhrobinsystems/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/dhrobinsystems)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://dhrobinsystems.com)  
+<p align="left">
+  <a href="https://github.com/dhrobinsystems"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="40" width="40" /></a>
+  <a href="https://www.linkedin.com/in/dhrobinofficial"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="40" width="40" /></a>
+  <a href="https://www.facebook.com/dhrobinsystem"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" height="40" width="40" /></a>
+  <a href="https://www.instagram.com/dhrobinsystems/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="40" width="40" /></a>
+  <a href="https://twitter.com/dhrobinsystems"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="40" width="40" /></a>
+  <a href="https://dhrobinsystems.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg" alt="website" height="40" width="40" /></a>
+</p>
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=dhrobinsystems)](https://github.com/ryo-ma/github-profile-trophy)
+# 📊 GitHub Analytics
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhrobinsystems)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dhrobinsystems&theme=flat" alt="GitHub Trophies" />
+</p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dhrobinsystems&show_icons=true)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dhrobinsystems&show_icons=true&theme=dark" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhrobinsystems&layout=compact&theme=dark" alt="Top Languages" width="48%" />
+</p>
 
-![GitHub metrics](https://metrics.lecoq.io/dhrobinsystems)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=dhrobinsystems)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=dhrobinsystems&theme=dark" alt="GitHub Streak" />
+</p>
