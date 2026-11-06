@@ -1,8 +1,8 @@
-![Revenue Infrastructure Architect | HubSpot CRM Architecture | RevOps Automation | GTM Systems](https://github.com/dhrobinsystems/dhrobinsystems/blob/main/Revenue%20Architect.png)
-
 # Hi, I'm DH Robin 👋
 
 ## Revenue Infrastructure Architect | HubSpot CRM Architecture | RevOps Automation | GTM Systems
+
+![Revenue Infrastructure Architect | HubSpot CRM Architecture | RevOps Automation | GTM Systems](https://raw.githubusercontent.com/dhrobinsystems/dhrobinsystems/main/Revenue%20Architect.png)
 
 I design and optimize revenue infrastructure that connects CRM platforms, automation workflows, enrichment systems, outbound channels, and operational data into scalable growth systems.
 
@@ -132,8 +132,12 @@ They are connected operational engines in which data, automation, and people mov
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhrobinsystems&show_icons=true&theme=dark" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhrobinsystems&layout=compact&theme=dark" alt="Top Languages" width="48%" />
+  <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="GitHub Profile Details" width="100%" />
+</p>
+
+<p align="center">
+  <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Top Languages" width="48%" />
+  <img src="./profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub Stats" width="48%" />
 </p>
 
 <p align="center">
