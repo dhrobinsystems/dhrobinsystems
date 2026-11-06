@@ -1,8 +1,8 @@
+![Revenue Infrastructure Architect | HubSpot CRM Architecture | RevOps Automation | GTM Systems](https://raw.githubusercontent.com/dhrobinsystems/dhrobinsystems/main/Revenue%20Architect.png)
+
 # Hi, I'm DH Robin 👋
 
 ## Revenue Infrastructure Architect | HubSpot CRM Architecture | RevOps Automation | GTM Systems
-
-![Revenue Infrastructure Architect | HubSpot CRM Architecture | RevOps Automation | GTM Systems](https://raw.githubusercontent.com/dhrobinsystems/dhrobinsystems/main/Revenue%20Architect.png)
 
 I design and optimize revenue infrastructure that connects CRM platforms, automation workflows, enrichment systems, outbound channels, and operational data into scalable growth systems.
 
