@@ -1,4 +1,4 @@
-![Revenue Infrastructure Architect | HubSpot CRM Architecture | RevOps Automation | GTM Systems](https://raw.githubusercontent.com/dhrobinsystems/dhrobinsystems/main/Revenue%20Architect.png)
+![Revenue Infrastructure Architect | HubSpot CRM Architecture | RevOps Automation | GTM Systems](https://github.com/dhrobinsystems/dhrobinsystems/blob/main/Revenue%20Architect.png)
 
 # Hi, I'm DH Robin 👋
 
@@ -129,11 +129,7 @@ They are connected operational engines in which data, automation, and people mov
 
 ---
 
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dhrobinsystems&theme=darkhub" alt="DH Robin Trophies" />
-</p>
+# 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dhrobinsystems&show_icons=true&theme=dark" alt="GitHub Stats" width="48%" />
