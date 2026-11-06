@@ -1,4 +1,4 @@
-![Revenue Infrastructure Architect | HubSpot CRM Architecture | RevOps Automation | GTM Systems](https://github.com/dhrobinsystems/dhrobinsystems/blob/main/Revenue%20Architect.png)
+![Revenue Infrastructure Architect | HubSpot CRM Architecture | RevOps Automation | GTM Systems](https://raw.githubusercontent.com/dhrobinsystems/dhrobinsystems/main/Revenue%20Architect.png)
 
 # Hi, I'm DH Robin 👋
 
@@ -119,20 +119,20 @@ They are connected operational engines in which data, automation, and people mov
 ---
 
 <p align="left">
-  <a href="https://github.com/dhrobinsystems"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="40" width="40" /></a>
-  <a href="https://www.linkedin.com/in/dhrobinofficial"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="40" width="40" /></a>
-  <a href="https://www.facebook.com/dhrobinsystem"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" height="40" width="40" /></a>
-  <a href="https://www.instagram.com/dhrobinsystems/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="40" width="40" /></a>
-  <a href="https://twitter.com/dhrobinsystems"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="40" width="40" /></a>
-  <a href="https://dhrobinsystems.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg" alt="website" height="40" width="40" /></a>
+  <a href="https://github.com/dhrobinsystems"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="35" width="35" /></a>
+  <a href="https://www.linkedin.com/in/dhrobinofficial"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="35" width="35" /></a>
+  <a href="https://www.facebook.com/dhrobinsystem"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" height="35" width="35" /></a>
+  <a href="https://www.instagram.com/dhrobinsystems/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="35" width="35" /></a>
+  <a href="https://twitter.com/dhrobinsystems"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="35" width="35" /></a>
+  <a href="https://dhrobinsystems.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg" alt="website" height="35" width="35" /></a>
 </p>
 
 ---
 
-# 📊 GitHub Analytics
+### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dhrobinsystems&theme=flat" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=dhrobinsystems&theme=darkhub" alt="DH Robin Trophies" />
 </p>
 
 <p align="center">
